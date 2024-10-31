@@ -1,0 +1,19 @@
+Bu Eklenti oguzhansahin.net'e Aittir.
+
+Kullanýmýna Bir Örnek Vereyim.
+
+Kullanýlacak Kodu Buraya Giriniz: 
+
+youtube
+
+
+Kullanýlacak Ýþlev Kodunu Buraya Giriniz: 
+
+<object width="580" height="453"><param name="movie" value="http://www.youtube.com/v/{degisken}"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/{degisken}" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="580" height="453"></embed></object>
+
+
+Konuda Yapmanýz Gereken [youtube="xx"] xx Yazan Kýsým Kullanýlacak Ýþlev Kodunda {degisken} Kýsmýnýn Yerine Geçecektir.
+
+Ýyi Günlerde Kullanýn.
+
+Soru ve Görüþlerinizi Konu Altýndan Belirtiniz.
